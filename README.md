@@ -109,6 +109,12 @@ Start the server
 ![Manage Products (admin)](https://raw.github.com/erastimothy/brand-name/master/assets/readme-page/products-admin.png)
 
 
+### Homepage (Mobile)
+![Dashboard Admin (Mobile)](https://raw.github.com/erastimothy/brand-name/master/assets/readme-page/user-home-mobile.png)
+
+
+### Dashboard Admin (Mobile)
+![Dashboard Admin (Mobile)](https://raw.github.com/erastimothy/brand-name/master/assets/readme-page/admin-dashboard-mobile.png)
 
 
 
