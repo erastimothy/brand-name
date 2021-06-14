@@ -1,11 +1,14 @@
 
-# BRAND NAME - E Commerce (PHP)
+# BRAND NAME - E Commerce (PHP) 
 
 I created this project with the purpose of completing the mid-semester exam assignment.
 of course this project is not good enough to be launched to the public. 
 but can be used for learning materials.
 
-and i use PHPMailer for register verification. dont forget to settings the smtp.
+i use PHPMailer for register verification. dont forget to settings the smtp.
+
+PS : its mobile friendly.
+
 
 
 
