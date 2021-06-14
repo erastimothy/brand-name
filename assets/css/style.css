@@ -1,0 +1,62 @@
+body{
+    background-color: whitesmoke;
+    overflow-x: hidden;
+    height: 100%;
+}
+html {
+    height: 100%;
+}
+.sidebar{
+    z-index: -2;
+    position: absolute;
+    width: 19rem;
+    min-height: 100vh;
+    transition: 0.5s;
+    margin-left: -18rem;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+.toggledSidebar{
+    z-index:100;
+    transition: 0.5s;
+    margin-left: 0;
+}
+.sidebar-menu{
+    list-style-type: none;
+    margin-left: -20px;
+    margin-right: 45px;
+}
+.sidebar-menu li{
+    margin-top: 12px;
+    padding: 8px;
+    word-wrap:break-word;
+}
+.sidebar-menu li:hover{
+    background-color: #292b2c;
+    opacity: 0.7;
+}
+.sidebar-menu a{
+    text-decoration: none;
+    color: white;
+}
+.toggled {
+    width: 50px;
+}
+.extendWidth {
+    transition: 0.5s;
+    width: 100vw;
+}
+.carousel-item{
+    width: auto;
+    max-height: 380px;
+    text-align: center;
+    margin: auto;
+}
+.cart-img{
+    max-height: 200px;
+    width: fit-content;
+}
+
+.discount {
+    display: none;
+}
