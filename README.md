@@ -42,7 +42,7 @@ PS : its mobile friendly.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/erastimothy/brand-name.git
 ```
 
 Go to the project directory and open the folder to your text editor, 
